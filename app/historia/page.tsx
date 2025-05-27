@@ -82,7 +82,7 @@ export default function HistoriaPage() {
             </p>
             <p className="text-gray-700 leading-relaxed">
               La construcción de la escuela municipal, el centro de salud y otras obras de infraestructura marcaron el
-              crecimiento del municipio y mejoraron significativamente la calidad de vida de sus habitantes.
+              crecimiento del municipio y mejoraron significativamente la calidad de vida de sus habitantess.
             </p>
           </CardContent>
         </Card>
